@@ -33,3 +33,5 @@ str1 = " Ana "
 print(str1.strip())
 print(str1.lstrip())
 print(str1.rstrip())
+print(str1)
+print(str1 + "ana are mere")
