@@ -1,0 +1,4 @@
+2021-04-03 16:23:26,035 : INFO : pytest18.test_logging : Information statemant
+2021-04-03 16:23:26,036 : WARNING : pytest18.test_logging : Somthing is in warning mode
+2021-04-03 16:23:26,036 : ERROR : pytest18.test_logging : a major error has happened
+2021-04-03 16:23:26,036 : CRITICAL : pytest18.test_logging : critical issue
